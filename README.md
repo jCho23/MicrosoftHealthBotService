@@ -10,12 +10,11 @@ The Health Bot Service enables meaningful conversations for patients with an int
 
 ## Configurable and Extensible
 The Health Bot Service provides endless flexibility of use to Microsoft partners:
+1) Unique scenarios can be authored by partners for their health bot instances to extend the baseline scenarios and support their own flows.
 
-Unique scenarios can be authored by partners for their health bot instances to extend the baseline scenarios and support their own flows.
+2) The health bot instance's behavior can be configured to match the partner's use cases, processes, and scenarios.
 
-The health bot instance's behavior can be configured to match the partner's use cases, processes, and scenarios.
+3) The health bot instance can easily be connected to partners' information systems---for example, systems that manage EMR, health information, and customer information.
 
-The health bot instance can easily be connected to partners' information systems---for example, systems that manage EMR, health information, and customer information.
-
-The health bot instance can be easily integrated into other systems such as web sites, chat channels, and digital personal assistants
+4) The health bot instance can be easily integrated into other systems such as web sites, chat channels, and digital personal assistants
 
