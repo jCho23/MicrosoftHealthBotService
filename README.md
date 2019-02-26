@@ -18,3 +18,4 @@ The Health Bot Service provides endless flexibility of use to Microsoft partners
 
 4) The health bot instance can be easily integrated into other systems such as web sites, chat channels, and digital personal assistants
 
+## Security and Privacy
