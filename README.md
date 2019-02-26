@@ -8,4 +8,7 @@ While each health bot instance is highly customizable and extensible, the Health
 
 The Health Bot Service enables meaningful conversations for patients with an interactive symptom checker and uses medical content databases to answer health questions. Conversational intelligence supports layperson natural language conversations to flow and adapt dynamically as each health bot instance learns from previous interactions. The service intelligence is powered by Microsoft Cognitive Services and credible world knowledge.
 
+## Configurable and extensible
+
+
 
