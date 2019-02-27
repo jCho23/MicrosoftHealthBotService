@@ -22,4 +22,5 @@ The Health Bot Service provides endless flexibility of use to Microsoft partners
 The information handled by each instance of the Health Bot Service is privacy protected to HIPAA standards and secured to the highest standards for privacy and security by Microsoft. Built on top of the industry-leading Microsoft Azure technology, the Azure architecture powers the Health Bot Service's ability to scale with resilience, while maintaining the highest standards of privacy and security.
 
 ## Easy to manage
+Each health bot instance is easily managed and monitored by Microsoft partners via the Health Bot Service's management portal and management API. The management portal provides the ability to define the health bot instance's behavior in fine detail and to monitor usage with built-in reports. Management API allows the partner to embed the health bot instance and to securely exchange data and information.
 
