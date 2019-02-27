@@ -3,6 +3,15 @@ The Microsoft Health Bot Service makes this simple by providing an extensible an
 
 Our partners are using the Microsoft Health Bot Service to build health bot instances that address a wide range of healthcare-specific use cases. For example, insurers are using our service to build health bot instances that give their customers an easy way to look up the status of a claim and ask questions about benefits and services. Meanwhile, providers have built health bot instances that triage patient issues with a symptom checker, help patients find appropriate care, and look up nearby doctors.
 
+## Architecture
+
+
+
+
+
+
+
+
 ## Out-of-the-Box AI 
 While each health bot instance is highly customizable and extensible, the Health Bot Service is built with a wide range of out-of-the-box features. The Health Bot Service leverages information from respected healthcare industry data sources to generate accurate and relevant responses. 
 
@@ -23,4 +32,6 @@ The information handled by each instance of the Health Bot Service is privacy pr
 
 ## Easy to manage
 Each health bot instance is easily managed and monitored by Microsoft partners via the Health Bot Service's management portal and management API. The management portal provides the ability to define the health bot instance's behavior in fine detail and to monitor usage with built-in reports. Management API allows the partner to embed the health bot instance and to securely exchange data and information.
+
+
 
