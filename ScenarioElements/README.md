@@ -16,3 +16,6 @@ Prompts are used to create two way interactions with user. An author should conf
 
 ### Yes / No Prompt
 The Yes/No prompt is essentially a Boolean prompt combined with a decision step. It allows the author to ask boolean questions and branch according to the answer.
+
+### Statement
+
