@@ -15,3 +15,4 @@ From sending prompt messages to getting answers from the user to specific questi
 Prompts are used to create two way interactions with user. An author should configure the displayed message such that it guides the user and helps to provide the expected value.
 
 ### Yes / No Prompt
+The Yes/No prompt is essentially a Boolean prompt combined with a decision step. It allows the author to ask boolean questions and branch according to the answer.
