@@ -13,3 +13,5 @@ From sending prompt messages to getting answers from the user to specific questi
 
 ### Prompt
 Prompts are used to create two way interactions with user. An author should configure the displayed message such that it guides the user and helps to provide the expected value.
+
+### Yes / No Prompt
