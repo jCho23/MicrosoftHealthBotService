@@ -12,3 +12,4 @@ There are three component types in the Scenario Editor
 From sending prompt messages to getting answers from the user to specific questions, interaction with end users is a mandatory functionality in any chat bot conversation. The Health bot provides a simple interface to allow communication with the user in scenarios and data flows.
 
 ### Prompt
+Prompts are used to create two way interactions with user. An author should configure the displayed message such that it guides the user and helps to provide the expected value.
