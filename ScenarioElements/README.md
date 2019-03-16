@@ -18,4 +18,5 @@ Prompts are used to create two way interactions with user. An author should conf
 The Yes/No prompt is essentially a Boolean prompt combined with a decision step. It allows the author to ask boolean questions and branch according to the answer.
 
 ### Statement
+Statements are used to display and send messages to the user without requiring any feedback or interaction from the user.
 
